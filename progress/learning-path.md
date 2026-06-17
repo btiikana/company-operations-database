@@ -6,29 +6,35 @@ Project: Island Supply Company Operations Database System
 
 Build practical database engineering skills by creating a complete company operations database system.
 
+## Core Rule
+
+Every skill must build a piece.  
+Every piece must create an artifact.  
+Every artifact must become part of the final Island Supply Company system.
+
 ## Main Build Order
 
-1. Business process and requirements thinking
-2. Business rules
-3. Why databases exist
-4. Data modeling
-5. Relational table planning
-6. Git and GitHub setup
-7. PostgreSQL setup
-8. SQL fundamentals
-9. Constraints
-10. Reports
-11. Inventory module
-12. Supplier and purchasing module
-13. Shipping module
-14. Transactions
-15. Concurrency
-16. Indexes and performance
-17. Administration
-18. Security
-19. Backup and recovery
-20. Python automation
-21. Final documentation
+0. Business process and requirements thinking
+1. Business understanding
+2. Why databases exist
+3. Data modeling
+4. Relational database design
+5. Git and GitHub portfolio setup
+6. PostgreSQL basics
+7. SQL fundamentals
+8. Data integrity and constraints
+9. Joins and reporting
+10. Inventory management design
+11. Supplier and purchasing design
+12. Shipping and fulfillment design
+13. Transactions
+14. Concurrency basics
+15. Indexes and performance
+16. Database administration basics
+17. Security and permissions
+18. Backup and recovery
+19. Python automation for database work
+20. Documentation and interview explanation
 
 ## Current Focus
 
@@ -40,4 +46,11 @@ Business Analysis: Process Modeling & Requirements Gathering
 
 ## Current Artifact
 
-docs/business_process_map.md
+`docs/business_process_map.md`
+
+## Learning Method
+
+Course topic  
+-> project piece  
+-> artifact  
+-> final database system
