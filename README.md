@@ -30,7 +30,7 @@ Status: In progress
 Current focus:
 
 - Piece 0: Business Process and Requirements Thinking
-- Artifact: `docs/business_process_map.md`
+- Artifact: `docs/business-process-map.md`
 
 ## Repository Structure
 
@@ -39,7 +39,7 @@ Current focus:
 - `sql/` - SQL scripts for schema creation, seed data, queries, constraints, reports, and tests
 - `data/` - sample CSV data
 - `python/` - Python scripts for loading data, reports, alerts, and automation
-- `progress/` - learning path, course tracking, piece tracking, and weekly logs
+- `progress/` - learning path, course tracking, piece tracking, and daily logs
 - `certificates/` - course certificates and related proof of learning
 - `backups/` - backup and restore examples
 
