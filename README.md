@@ -10,11 +10,13 @@ The project is built around the Island Supply Company Operations Database System
 
 The goal of this project is to learn how to move from business needs to a working relational database system.
 
+This project is designed to produce a real-world-style working PostgreSQL database system, not just course notes. Each learning topic is connected to a project artifact that supports the final Island Supply Company database.
+
 This project follows one core rule:
 
-Every skill must build a piece.
-Every piece must create an artifact.
-Every artifact must become part of the final Island Supply Company system.
+Every skill must build a piece.<br>
+Every piece must create an artifact.<br>
+Every artifact must become part of the final Island Supply Company system.<br>
 
 ## Course Platform
 
