@@ -17,9 +17,13 @@ Current Artifact: `docs/business-process-map.md`
 ## Status Key
 
 Not Started = work has not started yet
+
 In Progress = started but not finished
+
 Updated = file exists and was improved
+
 Completed = artifact is finished and ready for the next piece
+
 Optional = useful only if needed later
 
 ## Current Piece Progress
