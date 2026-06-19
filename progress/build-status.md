@@ -54,14 +54,29 @@ Optional = useful only if needed later
 
 ## Piece Progress
 
-| Piece | Name                                       | Main Artifact                                    | Status      |
-| ----- | ------------------------------------------ | ------------------------------------------------ | ----------- |
-| 0     | Business Process and Requirements Thinking | `docs/business-process-map.md`                   | In Progress |
-| 1     | Business Understanding                     | `docs/business-rules.md`                         | Not Started |
-| 2     | Why Databases Exist                        | `docs/why-database.md`                           | Not Started |
-| 3     | Data Modeling                              | `docs/data-model.md`                             | Not Started |
-| 4     | Relational Database Design                 | `docs/table-plan.md`, `diagrams/level-1-erd.png` | Not Started |
-| 5     | Git and GitHub Portfolio Setup             | `README.md`, `.gitignore`, GitHub repository     | In Progress |
+| Piece | Name | Main Artifact | Status |
+|---|---|---|---|
+| 0 | Business Process and Requirements Thinking | `docs/business-process-map.md` | In Progress |
+| 1 | Business Understanding | `docs/business-rules.md` | Not Started |
+| 2 | Why Databases Exist | `docs/why-database.md` | Not Started |
+| 3 | Data Modeling | `docs/data-model.md` | Not Started |
+| 4 | Relational Database Design | `docs/table-plan.md`, `diagrams/level-1-erd.png` | Not Started |
+| 5 | Git and GitHub Portfolio Setup | `README.md`, `.gitignore`, GitHub repository | In Progress |
+| 6 | PostgreSQL Basics | `docs/setup-guide.md` | Not Started |
+| 7 | SQL Fundamentals | `sql/01-create-tables.sql`, `sql/02-insert-seed-data.sql`, `sql/03-basic-queries.sql` | Not Started |
+| 8 | Data Integrity and Constraints | `sql/04-constraints.sql`, `sql/tests/constraint-tests.sql` | Not Started |
+| 9 | Joins and Reporting | `sql/05-reports.sql`, `docs/report-catalog.md` | Not Started |
+| 10 | Inventory Management Design | `sql/06-inventory-module.sql` | Not Started |
+| 11 | Supplier and Purchasing Design | `sql/07-supplier-purchasing.sql` | Not Started |
+| 12 | Shipping and Fulfillment Design | `sql/08-shipping-module.sql` | Not Started |
+| 13 | Transactions | `sql/09-order-transaction.sql`, `docs/workflows.md` | Not Started |
+| 14 | Concurrency Basics | `sql/10-concurrency-test.sql`, `docs/concurrency-test.md` | Not Started |
+| 15 | Indexes and Performance | `sql/11-indexes.sql`, `docs/performance-notes.md` | Not Started |
+| 16 | Database Administration Basics | `docs/admin-setup.md` | Not Started |
+| 17 | Security and Permissions | `sql/12-roles-permissions.sql`, `docs/security-model.md` | Not Started |
+| 18 | Backup and Recovery | `docs/backup-restore.md`, `backups/sample-backup-command.txt` | Not Started |
+| 19 | Python Automation for Database Work | `python/load-customers.py`, `python/load-products.py`, `python/generate-fake-orders.py`, `python/daily-sales-report.py`, `python/low-stock-alert.py` | Not Started |
+| 20 | Documentation and Interview Explanation | `README.md`, `docs/data-dictionary.md`, `docs/workflows.md`, `docs/report-catalog.md`, `docs/setup-guide.md`, `docs/admin-setup.md`, `docs/security-model.md`, `docs/backup-restore.md` | Not Started |
 
 ## Next Build Step
 
