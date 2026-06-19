@@ -14,7 +14,7 @@
 * Before designing a database, I need to understand the business problem, stakeholders, processes, and requirements.
 
 **Project Connection:**
-This connects to my database project because `docs/business_process_map.md` should be based on business needs first, not random tables or SQL.
+This connects to my database project because `docs/business-process-map.md` should be based on business needs first, not random tables or SQL.
 
 **Files Updated:**
 
