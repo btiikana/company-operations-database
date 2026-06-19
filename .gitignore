@@ -1,1 +1,38 @@
+# Environment / secrets
+.env
+.env.*
+!.env.example
 
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Local database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Database backups
+*.dump
+*.backup
+*.bak
+
+# PostgreSQL local data folders
+pgdata/
+postgres-data/
+data/
