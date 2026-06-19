@@ -1,5 +1,7 @@
 # Island Supply Company Operations Database System
 
+Repository: `company-operations-database`
+
 This repository documents a project-based database engineering learning path focused on building a complete company operations database system.
 
 The project is built around the Island Supply Company Operations Database System, a simulated business database used to practice business analysis, requirements thinking, data modeling, relational database design, SQL, PostgreSQL, technical documentation, database administration, security, backup and recovery, and Python automation.
