@@ -50,7 +50,7 @@ Optional = useful only if needed later
 
 | Artifact                       | Status      | Purpose                                                                                                       |
 | ------------------------------ | ----------- | ------------------------------------------------------------------------------------------------------------- |
-| `docs/business-process-map.md` | In Progress | Defines business process, stakeholders, needs, problems, requirements, and data needs for the database system |
+| `docs/business-process-map.md` | In Progress | Defines Island Supply Company’s business process, stakeholders, problems, requirements, and data needs so the database can be designed from real operations instead of random tables. |
 
 ## Piece Progress
 
