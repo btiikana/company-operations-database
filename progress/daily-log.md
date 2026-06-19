@@ -10,15 +10,16 @@
 
 * A Business Analyst connects business needs with technical solutions.
 * BA work includes requirements gathering, stakeholder communication, documentation, validation, and solution evaluation.
-* Common tools include BRDs, use cases, user stories, process diagrams, ERDs, and traceability matrices.
+* Common BA documentation includes BRDs, use cases, user stories, process diagrams, ERDs, and traceability matrices.
+* Before designing a database, I need to understand the business problem, stakeholders, processes, and requirements.
 
 **Project Connection:**
-This connects to my database project because I need to understand the business problem, stakeholders, requirements, and processes before designing tables or writing SQL.
+This connects to my database project because `docs/business_process_map.md` should be based on business needs first, not random tables or SQL.
 
 **Files Updated:**
 
 * `progress/daily-log.md`
+* `progress/course-tracker.md`
 
 **Next Step:**
-Start defining the business problem and stakeholders for the Island Supply Company Operations Database System.
-
+Continue the Business Analysis course with Popular Tools for Business Analysis and decide which tools are useful for building `docs/business_process_map.md`.
